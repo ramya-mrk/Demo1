@@ -1,0 +1,3 @@
+When you retrieve the Object automatically the fields also retrieved.
+
+when you want to retrieve other field
